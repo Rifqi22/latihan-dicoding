@@ -7,3 +7,8 @@ M. Rifqi Naufal A <br>
 Sains Informasi Geografi <br>
 
 ### Latihan Eksplorasi Github
++ Persiapan Belajar <br>
++ Git dan Github <br>
++ Dasar Git <br>
++ Studi Kasus Pengalaman Belajar <br>
++ Git Branches <br>
